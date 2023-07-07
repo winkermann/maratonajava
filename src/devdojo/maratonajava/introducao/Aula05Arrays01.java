@@ -4,7 +4,7 @@ public class Aula05Arrays01 {
     public static void main(String[] args) {
 
         /* Array tem um tipo definido e tamanho fixo e o primeiro indice sempre sera 0.
-         * sintaxe: tipo do objeto[] nome do array;
+         * sintaxe: tipo do objeto[] fabricante do array;
          * Inicializando um array:
          * ex: int[] numeros = {1, 2, 3}; - aceita apenas números inteiros;
          * ex: String[] nomes = {"Lucas", "Fernanda", "Fabio"}; - aceita apenas strings;
