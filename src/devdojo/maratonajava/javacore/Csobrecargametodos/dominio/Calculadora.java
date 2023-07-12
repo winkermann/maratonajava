@@ -1,9 +1,10 @@
 package devdojo.maratonajava.javacore.Csobrecargametodos.dominio;
 
-// O termo sobrecarga vem do fato de declararmos vários métodos com o mesmo nome, estamos carregando o aplicativo com o 'mesmo' método.
-// A única diferença entre esses métodos são seus parâmetros e/ou tipo de retorno.
-// ref: https://www.javaprogressivo.net/2012/09/sobrecarga-de-metodos-method.html
-
+/*
+A sobrecarga de método em Java permite que uma classe tenha vários métodos com o mesmo nome,
+mas com diferentes parâmetros. Isso possibilita chamar o mesmo método com argumentos diferentes,
+permitindo maior flexibilidade e reutilização de código.
+ */
 
 public class Calculadora {
 

@@ -1,5 +1,10 @@
 package devdojo.maratonajava.javacore.Bintrometodos.dominio;
 
+/*
+Um método em Java é um bloco de código que executa uma ação específica e pode receber parâmetros e retornar um valor.
+Ele é utilizado para encapsular um conjunto de instruções que realizam uma determinada tarefa dentro de uma classe.
+ */
+
 public class Funcionario {
     public String nome;
     public int idade;
