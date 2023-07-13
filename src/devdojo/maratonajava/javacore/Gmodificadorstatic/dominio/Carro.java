@@ -9,8 +9,8 @@ através do nome da classe.
 public class Carro {
     private String nome;
     private int velocidadeMaxima;
-    //definido como publico pq ainda nao vimos metodos estaticos
-    public static int velocidadeLimite = 250;
+    // Corrige modificador para privado;
+    private static int velocidadeLimite = 250;
 
     public Carro(String nome, int velocidadeMaxima) {
         this.nome = nome;
